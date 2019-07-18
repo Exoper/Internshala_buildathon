@@ -22,4 +22,3 @@ Linear kernel
 
 Flask
 
-## Demo 
